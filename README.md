@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![GitHub 粉丝](https://img.shields.io/github/followers/你的用户名?style=social)](https://github.com/你的用户名)
+[![GitHub 粉丝](https://img.shields.io/github/followers/fengxueyong?style=social)](https://github.com/fengxueyong)
 [![邮箱](https://img.shields.io/badge/-邮箱-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:foogle.xy@gmail.com)
 
 </div>
