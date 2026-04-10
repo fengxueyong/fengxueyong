@@ -5,7 +5,6 @@
 <div align="center">
   
 [![GitHub 粉丝](https://img.shields.io/github/followers/你的用户名?style=social)](https://github.com/你的用户名)
-[![LinkedIn](https://img.shields.io/badge/-领英-blue?style=flat-square&logo=Linkedin&logoColor=white)](你的LinkedIn链接)
 [![邮箱](https://img.shields.io/badge/-邮箱-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:foogle.xy@gmail.com)
 
 </div>
